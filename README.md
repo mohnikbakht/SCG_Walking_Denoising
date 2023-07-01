@@ -31,7 +31,7 @@ A qualitative comparison of a noisy sample and its denoised using the model. (a)
 Performance of the denoising model on SCG signals throughout the entire study protocol for test participant 1. The top plots represent the continuous heart rate (HR), pre-ejection period (PEP), and left ventricular ejection time (LVET) values obtained after applying the denoising model. The bottom images display the beat stack images, illustrating the collection of beats from the entire study duration before and after denoising. The aortic opening (AO) and aortic closing (AC) features are highlighted in red and blue, respectively.
 
 <p align="center">
-<img src="https://github.com/mohnikbakht/SCG_Walking_Denoising/blob/main/figures/supp_figure1" alt="results figure" width="600"/>
+<img src="https://github.com/mohnikbakht/SCG_Walking_Denoising/blob/main/figures/supp_figure1.png" alt="results figure" width="600"/>
 </p>
 
  ## Conclusion
