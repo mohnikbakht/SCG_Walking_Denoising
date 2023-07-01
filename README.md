@@ -17,7 +17,7 @@ Overview of the Seismocardiogram (SCG) denoising model. (a) A noisy sample of SC
 Architecture of the SCG denoising model, which is adapted from the Noise2Noise architecture for removing motion noise from SCG signals. (a) A 2s window sample of SCG signal during walking is fed into the network as input. (b, c) The timeseries input is transformed using continuous wavelet transform (CWT) to create a scalogram image. (d) The scalogram image is fed to the U-Net and the output of the U-Net is subtracted from the input image to create a denoised scalogram image. (e, f) The estimated denoised image is transformed back to a 2s timeseries which is the model prediction of the denoised SCG signal.
 
 <p align="center">
-<img src="https://github.com/mohnikbakht/SCG_Walking_Denoising/blob/main/figures/figure3.png" alt="Architecture figure" width="600"/>
+<img src="https://github.com/mohnikbakht/SCG_Walking_Denoising/blob/main/figures/figure3.png" alt="Architecture figure" width="400"/>
 </p>
 
 ## Results
