@@ -1,4 +1,4 @@
-# Synthetic Seismocardiogram Generation Using a Transformer-Based Neural Network
+# A Residual U-Net Neural Network for Seismocardiogram Denoising: Improved Cardiomechanical Health Monitoring During Walking
 Our objective was o design and validate a novel seismocardiogram (SCG) denoising model with a specific focus on reducing the impact of walking noise. SCG signals are noninvasively obtained cardiomechanical signals that contain important features for cardiovascular health parameter monitoring tasks. However, these signals are prone to contamination by motion noise, which can significantly impact the accuracy of monitoring processes.
 
 A deep learning model based on the U-Net neural network architecture is proposed to restore SCG signals by removing motion noise induced by walking. The performance of the model was evaluated through qualitative analysis, involving visualizing the heart beats, and quantitative analysis, involving calculating distance metrics. Additionally, the model’s effectiveness was assessed by examining its performance in downstream tasks related to health parameter estimation.
